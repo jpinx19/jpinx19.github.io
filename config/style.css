@@ -1,0 +1,47 @@
+body{
+background-image: url("background2.gif");
+background-attachment: scroll;
+background-repeat: repeat;
+}
+
+h1, h2,h3{
+   color : red;
+
+font-family: arial;
+text-align: center;
+font-size: 60 px;
+
+}
+
+
+h4,h5{
+text-align: center;
+font-family: arial;
+font-size: 20px;
+color: #857251;
+}
+
+
+
+p{
+color : #27e340;
+font-size: medium;
+font-family: sans-sherif;
+text-align: center;
+text-shadow: 2px 2px 3px black;
+}
+
+p:hover{
+    border-left: 3px solid red;
+}
+
+.flotant{
+   test-align: center;
+
+}
+.texte{
+font-size: medium;
+font-family: sans-sherif;
+color : #27e340;
+}
+
